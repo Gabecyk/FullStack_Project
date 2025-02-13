@@ -22,7 +22,7 @@ function CreatPost() {
         console.log("Inserido"); 
         });
     };
-
+//
     return (
         <div className="createPostPage">
             <Formik 
